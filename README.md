@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2 align="center" style="margin-top: 60px;">⚡ Activity Graph:</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aydog4nn&theme=cobalt"/>
+</div>
