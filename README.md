@@ -105,16 +105,7 @@ part of my implemented stack.
 
 ---
 
-### GitHub Activity
 
-<p align="center">
-  <img
-    alt="Ahmet's GitHub contribution activity"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=aydog4nn&theme=cobalt"
-  />
-</p>
-
----
 
 <p align="center">
   Learning by building. Improving by understanding.
