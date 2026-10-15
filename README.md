@@ -1,15 +1,12 @@
-<h1 align="center">Hi, I'm aydog4nn</h1>
+<h1 align="center">Hi, I'm Ahmet 👋</h1>
 <h3 align="center">Computer Engineering Student | Backend & DevOps Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aydgo4nn/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:aydog4nnahmet@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/aydog4nn">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -17,96 +14,108 @@
 
 ### About Me
 
-Computer Engineering student focused on backend development, system design and DevOps practices.
+I'm a Computer Engineering student focused on Java backend development
+and hands-on DevOps learning.
 
-I am currently improving myself in:
-- Java
-- Spring Boot
-- PostgreSQL
-- DevOps fundamentals
+I learn by building, testing and documenting real projects—not just
+listing technologies.
 
-My main interests:
-- Backend Development
-- REST API Design
-- Software Architecture
-- System Design
-- DevOps Practices
-
-Reach me:
-- Email: aydog4nnahmet@gmail.com
-- LinkedIn: https://www.linkedin.com/in/aydgo4nn/
-- GitHub: https://github.com/aydog4nn
+My current focus:
+- Building REST APIs with Java and Spring Boot
+- Understanding transactions, database locking and data consistency
+- Creating reproducible development environments with Docker Compose
+- Documenting architectural decisions and their trade-offs
 
 ---
 
-### Tech Stack
+### Technologies I Work With
 
 **Backend**  
-Java, Spring Boot, REST API, JPA, Hibernate
+Java · Spring Boot · Spring Data JPA · Hibernate · Bean Validation
 
 **Database**  
-PostgreSQL
+PostgreSQL · Flyway
 
-**Tools**  
-Git, GitHub, Docker, Postman
+**Development & Delivery Tools**  
+Git · GitHub · Docker · Docker Compose · Maven · Postman
 
-**Frontend Basics**  
-HTML, CSS, JavaScript
+**Testing**  
+JUnit · Spring MockMvc
 
-**Other**  
-Python
+**Additional Background**  
+HTML · CSS · JavaScript · Python
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,git,github,html,css,js,python" />
+  <img alt="Technology icons" src="https://skillicons.dev/icons?i=java,spring,postgres,docker,git,github,maven,html,css,js,python" />
 </p>
 
 ---
 
-### Currently Working On
+### Current Project — ReserveFlow
 
-- Improving backend development skills with Spring Boot
-- Learning authentication and authorization structures
-- Building clean and maintainable project architectures
-- Strengthening DevOps and software design knowledge
+An ongoing stock reservation project built to explore backend reliability
+and the DevOps lifecycle.
 
----
+**Implemented and practiced so far:**
+- Inventory domain models and layered application structure
+- Stock reservation API with request/response DTOs and validation
+- Transactional stock updates and pessimistic database locking
+- Centralized API error handling
+- Controller tests for successful requests and error scenarios
+- PostgreSQL schema migrations with Flyway
+- Docker Compose environment with healthchecks and persistent storage
+- Environment-based application configuration
+- Architecture Decision Records and documented domain rules
 
-### Goals
+**Next milestones:**
+- Verify concurrency and stock consistency against PostgreSQL
+- Containerize the Spring Boot application
+- Introduce Order and Payment Simulator services
+- Build and validate the end-to-end reservation workflow
+- Automate testing, image builds and deployment
 
-- Become a stronger backend developer
-- Improve my knowledge of scalable system design
-- Build better software architecture habits
-- Gain more real-world development experience
-
----
-
-### Featured Projects
-
-You can pin your best repositories here and briefly describe them.
-
-- **HSD Platform**  
-  End-to-end platform architecture focused on backend structure, authentication and scalable design.
-
-- **DevOps Kit**  
-  A project focused on sustainable backend architecture, clean code structure and development workflow.
-
-- **Other Projects**  
-  More projects are available on my GitHub profile:  
-  https://github.com/aydog4nn
+> ReserveFlow is under active development. Planned features are not
+> presented as completed work.
 
 ---
 
-### GitHub Stats
+### DevOps Learning Roadmap
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=aydog4nn&show_icons=true&theme=tokyonight" />
+I'm progressively applying these topics to ReserveFlow:
+
+- Linux and networking fundamentals
+- Jenkins and CI/CD pipelines
+- Terraform and infrastructure as code
+- Ansible and configuration management
+- Kubernetes deployment
+- Prometheus and Grafana monitoring
+
+RabbitMQ and Redis are additional learning topics; they are not yet
+part of my implemented stack.
+
+---
+
+### Engineering Goals
+
+- Explain the reasoning behind architectural decisions
+- Write maintainable code supported by meaningful tests
+- Understand failure scenarios—not only the happy path
+- Build reproducible environments and repeatable delivery workflows
+- Support technical claims with code, documentation and test results
+
+---
+
+### GitHub Activity
+
+<p align="center">
+  <img
+    alt="Ahmet's GitHub contribution activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=aydog4nn&theme=cobalt"
+  />
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aydog4nn&theme=tokyonight" />
-</p>
+---
 
-<h2 align="center">Activity Graph</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aydog4nn&theme=cobalt"/>
-</div>
+<p align="center">
+  Learning by building. Improving by understanding.
+</p>
