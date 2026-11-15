@@ -142,8 +142,3 @@ RabbitMQ ve Redis de öğrenme konularım arasında; henüz uyguladığım tekno
 <a href="https://github.com/aydog4nn?tab=repositories"><img alt="Herkese açık repoların toplam yıldızları" src="https://img.shields.io/github/stars/aydog4nn?style=for-the-badge&amp;label=Y%C4%B1ld%C4%B1z&amp;logo=github&amp;color=e3b341" /></a>
 </p>
 
----
-
-<p align="center">
-  <em>Üreterek öğreniyorum. Anlayarak gelişiyorum.</em>
-</p>
