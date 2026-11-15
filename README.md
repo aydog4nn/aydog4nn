@@ -1,112 +1,144 @@
-<h1 align="center">Hi, I'm Ahmet 👋</h1>
-<h3 align="center">Computer Engineering Student | Backend & DevOps Enthusiast</h3>
+<h1 align="center">Selam, ben Ahmet 👋</h1>
+
+<p align="center">
+  <strong>Bilgisayar Mühendisliği Öğrencisi | Backend ve DevOps Meraklısı</strong>
+</p>
+
+<p align="center">
+  Güvenilir backend uygulamaları geliştiriyor, DevOps pratiklerini projelerimle öğreniyorum.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aydgo4nn/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
   </a>
   <a href="mailto:aydog4nnahmet@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="E-posta" src="https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
   </a>
 </p>
 
----
-
-### About Me
-
-I'm a Computer Engineering student focused on Java backend development
-and hands-on DevOps learning.
-
-I learn by building, testing and documenting real projects—not just
-listing technologies.
-
-My current focus:
-- Building REST APIs with Java and Spring Boot
-- Understanding transactions, database locking and data consistency
-- Creating reproducible development environments with Docker Compose
-- Documenting architectural decisions and their trade-offs
+<p align="center">
+  <img alt="Profil görüntülenmeleri" src="https://komarev.com/ghpvc/?username=aydog4nn&amp;label=Profil+G%C3%B6r%C3%BCnt%C3%BClenmesi&amp;color=0e75b6&amp;style=flat" />
+</p>
 
 ---
 
-### Technologies I Work With
+### 👨‍💻 Hakkımda
 
-**Backend**  
+Java ile backend geliştirmeye ve uygulamalı DevOps öğrenimine odaklanan bir Bilgisayar Mühendisliği öğrencisiyim.
+
+Yalnızca teknoloji isimleri sıralamak yerine gerçek projeler geliştirerek, test ederek ve belgeleyerek öğreniyorum.
+
+Şu sıralar odaklandığım konular:
+
+- Java ve Spring Boot ile REST API geliştirmek
+- Transaction yönetimini, veritabanı kilitlemeyi ve veri tutarlılığını anlamak
+- Docker Compose ile yeniden oluşturulabilir geliştirme ortamları hazırlamak
+- Mimari kararları, gerekçelerini ve ödünleşimlerini belgelemek
+
+---
+
+### 🛠️ Kullandığım Teknolojiler
+
+**Backend**<br />
 Java · Spring Boot · Spring Data JPA · Hibernate · Bean Validation
 
-**Database**  
+**Veritabanı**<br />
 PostgreSQL · Flyway
 
-**Development & Delivery Tools**  
+**Geliştirme ve Teslim Araçları**<br />
 Git · GitHub · Docker · Docker Compose · Maven · Postman
 
-**Testing**  
+**Test**<br />
 JUnit · Spring MockMvc
 
-**Additional Background**  
+**Diğer Deneyimlerim**<br />
 HTML · CSS · JavaScript · Python
 
-<p>
-  <img alt="Technology icons" src="https://skillicons.dev/icons?i=java,spring,postgres,docker,git,github,maven,html,css,js,python" />
+<p align="center">
+<img alt="Java, Spring, PostgreSQL, Docker, Git, GitHub, Maven, Postman, HTML, CSS, JavaScript ve Python" src="https://skillicons.dev/icons?i=java,spring,postgres,docker,git,github,maven,postman,html,css,js,python&amp;perline=6" />
 </p>
 
 ---
 
-### Current Project — ReserveFlow
+### 🚀 Güncel Projem — ReserveFlow
 
-An ongoing stock reservation project built to explore backend reliability
-and the DevOps lifecycle.
+<p>
+<img alt="Durum: aktif geliştirme" src="https://img.shields.io/badge/Durum-Aktif_Geliştirme-58a6ff?style=flat-square" />
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" />
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&amp;logo=springboot&amp;logoColor=white" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" />
+<img alt="Docker Compose" src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" />
+</p>
 
-**Implemented and practiced so far:**
-- Inventory domain models and layered application structure
-- Stock reservation API with request/response DTOs and validation
-- Transactional stock updates and pessimistic database locking
-- Centralized API error handling
-- Controller tests for successful requests and error scenarios
-- PostgreSQL schema migrations with Flyway
-- Docker Compose environment with healthchecks and persistent storage
-- Environment-based application configuration
-- Architecture Decision Records and documented domain rules
+Backend güvenilirliğini ve DevOps yaşam döngüsünü uygulayarak öğrenmek için geliştirdiğim stok rezervasyon projesi.
 
-**Next milestones:**
-- Verify concurrency and stock consistency against PostgreSQL
-- Containerize the Spring Boot application
-- Introduce Order and Payment Simulator services
-- Build and validate the end-to-end reservation workflow
-- Automate testing, image builds and deployment
+**Odak noktaları:** transaction yönetimi, eş zamanlı isteklerde stok tutarlılığı, tekrarlanabilir geliştirme ortamları ve mimari kararların belgelenmesi.
 
-> ReserveFlow is under active development. Planned features are not
-> presented as completed work.
+> 🚧 Aktif olarak geliştiriliyor. Tamamlanan çalışmalar ve sonraki hedefler aşağıda ayrı yer alıyor.
 
----
+**Şu ana kadar uyguladıklarım:**
 
-### DevOps Learning Roadmap
+- Envanter alan modelleri ve katmanlı uygulama yapısı
+- İstek/yanıt DTO'ları ve doğrulama içeren stok rezervasyon API'si
+- Transaction kapsamında stok güncellemeleri ve kötümser veritabanı kilitleme
+- Merkezi API hata yönetimi
+- Başarılı istekler ve hata senaryoları için controller testleri
+- Flyway ile PostgreSQL şema geçişleri
+- Sağlık kontrolleri ve kalıcı veri depolama içeren Docker Compose ortamı
+- Ortam değişkenlerine dayalı uygulama yapılandırması
+- Mimari Karar Kayıtları (ADR) ve belgelenmiş iş kuralları
 
-I'm progressively applying these topics to ReserveFlow:
 
-- Linux and networking fundamentals
-- Jenkins and CI/CD pipelines
-- Terraform and infrastructure as code
-- Ansible and configuration management
-- Kubernetes deployment
-- Prometheus and Grafana monitoring
 
-RabbitMQ and Redis are additional learning topics; they are not yet
-part of my implemented stack.
+**Sıradaki hedefler:**
+
+- PostgreSQL üzerinde eş zamanlı istekleri ve stok tutarlılığını doğrulamak
+- Spring Boot uygulamasını konteynerleştirmek
+- Order ve Payment Simulator servislerini eklemek
+- Uçtan uca rezervasyon akışını oluşturmak ve doğrulamak
+- Test, imaj oluşturma ve dağıtım süreçlerini otomatikleştirmek
+
+
 
 ---
 
-### Engineering Goals
+### 🧭 DevOps Öğrenme Yol Haritam
 
-- Explain the reasoning behind architectural decisions
-- Write maintainable code supported by meaningful tests
-- Understand failure scenarios—not only the happy path
-- Build reproducible environments and repeatable delivery workflows
-- Support technical claims with code, documentation and test results
+DevOps konularını ReserveFlow üzerinde adım adım uygulamayı hedefliyorum.
+
+- Linux ve ağ temelleri
+- Jenkins ve CI/CD süreçleri
+- Terraform ve kod olarak altyapı
+- Ansible ve yapılandırma yönetimi
+- Kubernetes ile dağıtım
+- Prometheus ve Grafana ile izleme
+
+<p>
+<img alt="Öğrenme planındaki teknolojiler: Linux, Jenkins, Terraform, Ansible, Kubernetes, Prometheus ve Grafana" src="https://skillicons.dev/icons?i=linux,jenkins,terraform,ansible,kubernetes,prometheus,grafana&amp;perline=7" />
+</p>
+
+*Bu ikonlar öğrenme planımı gösteriyor; projede tamamlanmış uygulamalar oldukları anlamına gelmiyor.*
+
+RabbitMQ ve Redis de öğrenme konularım arasında; henüz uyguladığım teknoloji yığınının parçası değiller.
+
 
 ---
 
+### 🎯 Mühendislik Hedeflerim
 
+- Mimari kararların arkasındaki gerekçeyi açıklamak
+- Anlamlı testlerle desteklenen, bakımı kolay kod yazmak
+- Başarılı akışın yanında hata senaryolarını da anlamak
+- Yeniden oluşturulabilir ortamlar ve tekrarlanabilir teslim süreçleri kurmak
+- Teknik iddiaları kod, dokümantasyon ve test sonuçlarıyla desteklemek
+
+---
+
+### 📊 GitHub
 
 <p align="center">
-  Learning by building. Improving by understanding.
+<a href="https://github.com/aydog4nn?tab=followers"><img alt="GitHub takipçileri" src="https://img.shields.io/github/followers/aydog4nn?style=for-the-badge&amp;label=Takip%C3%A7i&amp;logo=github&amp;color=238636" /></a>
+<a href="https://github.com/aydog4nn?tab=repositories"><img alt="Herkese açık repoların toplam yıldızları" src="https://img.shields.io/github/stars/aydog4nn?style=for-the-badge&amp;label=Y%C4%B1ld%C4%B1z&amp;logo=github&amp;color=e3b341" /></a>
 </p>
+
