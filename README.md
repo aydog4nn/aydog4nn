@@ -1,114 +1,149 @@
-<table width="100%">
-<tr>
-<td width="115" valign="top">
-<p>💾<br /><a href="#profil">README.txt</a></p>
-<p>🖥️<br /><a href="#proje">Projeler</a></p>
-<p>⌨️<br /><a href="#stack">Araçlar</a></p>
-<p>🧭<br /><a href="#roadmap">Yol haritası</a></p>
-<p>📬<br /><a href="#contact">İletişim</a></p>
-</td>
-<td valign="top">
-<a id="profil"></a>
-<div>ahmet.exe &nbsp; _ □ ×</div>
-<table width="100%"><tr>
-<td valign="top" width="65%">
-<pre>[aydog4nn@zephyr] &gt; whoami
-Ahmet
-Bilgisayar Mühendisliği öğrencisi
-Java backend · DevOps öğrenimi
+<h1 align="center">Selam, ben Ahmet 👋</h1>
 
-[aydog4nn@zephyr] &gt; █</pre>
-</td>
-<td valign="top">
-<strong>Sistem Bilgisi</strong><br />
-<strong>Mod:</strong> Geliştiriyor<br />
-<strong>Odak:</strong> Java Backend<br />
-<strong>Proje:</strong> ReserveFlow<br />
-<strong>Yöntem:</strong> Üret · Test et · Anla
-</td>
-</tr></table>
-<br />
-<div>focus.txt &nbsp; _ □ ×</div>
-<pre>[aydog4nn@zephyr] &gt; Get-Content .\focus.txt
-REST API geliştirme
-Transaction yönetimi ve veri tutarlılığı
-Veritabanı kilitleme ve eş zamanlılık
-Tekrarlanabilir geliştirme ortamları
-Mimari kararların belgelenmesi
-[aydog4nn@zephyr] &gt; █</pre>
-<br />
-<a id="stack"></a>
-<div>stack.exe &nbsp; _ □ ×</div>
-<p><img alt="Java, Spring, PostgreSQL, Docker, Git, GitHub, Maven, Postman" src="https://skillicons.dev/icons?i=java,spring,postgres,docker,git,github,maven,postman&amp;perline=8" /></p>
-<details>
-<summary>stack.txt — tüm teknolojiler</summary>
-<pre>Backend  Java · Spring Boot · Spring Data JPA
-         Hibernate · Bean Validation
-Veri     PostgreSQL · Flyway
-Araçlar  Git · GitHub · Docker · Docker Compose
-         Maven · Postman
-Test     JUnit · Spring MockMvc
-Diğer    HTML · CSS · JavaScript · Python</pre>
-</details>
-<br />
-<a id="proje"></a>
-<div>reserveflow.exe &nbsp; _ □ ×</div>
-<pre>[aydog4nn@zephyr] &gt; Get-Content .\ReserveFlow\durum.txt
-Stok rezervasyon sistemi
-Durum: aktif geliştirme
+<p align="center">
+  <strong>Bilgisayar Mühendisliği Öğrencisi | Backend ve DevOps Meraklısı</strong>
+</p>
 
-Uygulanan:
-  REST API · DTO doğrulaması · merkezi hata yönetimi
-  Transaction · kötümser veritabanı kilitleme
-  Controller testleri · Flyway · PostgreSQL
-  Docker Compose · sağlık kontrolleri · kalıcı depolama
-  Ortam yapılandırması · ADR · belgelenmiş iş kuralları
+<p align="center">
+  Güvenilir backend uygulamaları geliştiriyor, DevOps pratiklerini projelerimle öğreniyorum.
+</p>
 
-Sıradaki:
-  PostgreSQL üzerinde eş zamanlılık doğrulaması
-  Spring Boot uygulamasını konteynerleştirme
-  Order ve Payment Simulator servisleri
-  Uçtan uca rezervasyon akışını doğrulama
-  Test, imaj oluşturma ve dağıtım otomasyonu
-[aydog4nn@zephyr] &gt; █</pre>
-<sub>Planlanan özellikler tamamlanmış çalışma olarak sunulmuyor.</sub>
-<br /><br />
-<a id="roadmap"></a>
-<div>roadmap.txt &nbsp; _ □ ×</div>
-<pre>[aydog4nn@zephyr] &gt; Get-Content .\roadmap.txt
-Öğrenme ve uygulama planı:
-  Linux ve ağ temelleri
-  Jenkins / CI/CD
-  Terraform / Ansible
-  Kubernetes
-  Prometheus / Grafana
+<p align="center">
+  <a href="https://www.linkedin.com/in/aydgo4nn/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
+  </a>
+  <a href="mailto:aydog4nnahmet@gmail.com">
+    <img alt="E-posta" src="https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
+  </a>
+</p>
 
-Ek konular: RabbitMQ / Redis
-Henüz uyguladığım teknoloji yığınının parçası değiller.
-[aydog4nn@zephyr] &gt; █</pre>
-<br />
-<a id="contact"></a>
-<div>contact.bat &nbsp; _ □ ×</div>
-<pre>[aydog4nn@zephyr] &gt; .\contact.bat
-linkedin : <a href="https://www.linkedin.com/in/aydgo4nn/">aydgo4nn</a>
-e-posta  : <a href="mailto:aydog4nnahmet@gmail.com">aydog4nnahmet@gmail.com</a>
-github   : <a href="https://github.com/aydog4nn">aydog4nn</a>
-[aydog4nn@zephyr] &gt; █</pre>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img alt="Profil görüntülenmeleri" src="https://komarev.com/ghpvc/?username=aydog4nn&amp;label=Profil+G%C3%B6r%C3%BCnt%C3%BClenmesi&amp;color=0e75b6&amp;style=flat" />
+</p>
 
-<p><img alt="Profil görüntülenmesi" src="https://komarev.com/ghpvc/?username=aydog4nn&amp;label=G%C3%B6r%C3%BCnt%C3%BClenme&amp;color=808080&amp;style=flat-square" /></p>
+---
 
-<details>
-<summary>prensipler.md</summary>
+### 👨‍💻 Hakkımda
 
-- Mimari kararları gerekçeleri ve ödünleşimleriyle belgelemek
-- Anlamlı testlerle bakımı kolay kod yazmak
-- Hata senaryolarını ve veri tutarlılığını anlamak
-- Ortamları ve teslim süreçlerini tekrarlanabilir kılmak
+Java ile backend geliştirmeye ve uygulamalı DevOps öğrenimine odaklanan bir Bilgisayar Mühendisliği öğrencisiyim.
+
+Yalnızca teknoloji isimleri sıralamak yerine gerçek projeler geliştirerek, test ederek ve belgeleyerek öğreniyorum.
+
+Şu sıralar odaklandığım konular:
+
+- Java ve Spring Boot ile REST API geliştirmek
+- Transaction yönetimini, veritabanı kilitlemeyi ve veri tutarlılığını anlamak
+- Docker Compose ile yeniden oluşturulabilir geliştirme ortamları hazırlamak
+- Mimari kararları, gerekçelerini ve ödünleşimlerini belgelemek
+
+---
+
+### 🛠️ Kullandığım Teknolojiler
+
+**Backend**<br />
+Java · Spring Boot · Spring Data JPA · Hibernate · Bean Validation
+
+**Veritabanı**<br />
+PostgreSQL · Flyway
+
+**Geliştirme ve Teslim Araçları**<br />
+Git · GitHub · Docker · Docker Compose · Maven · Postman
+
+**Test**<br />
+JUnit · Spring MockMvc
+
+**Diğer Deneyimlerim**<br />
+HTML · CSS · JavaScript · Python
+
+<p align="center">
+<img alt="Java, Spring, PostgreSQL, Docker, Git, GitHub, Maven, Postman, HTML, CSS, JavaScript ve Python" src="https://skillicons.dev/icons?i=java,spring,postgres,docker,git,github,maven,postman,html,css,js,python&amp;perline=6" />
+</p>
+
+---
+
+### 🚀 Güncel Projem — ReserveFlow
+
+<p>
+<img alt="Durum: aktif geliştirme" src="https://img.shields.io/badge/Durum-Aktif_Geliştirme-58a6ff?style=flat-square" />
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" />
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&amp;logo=springboot&amp;logoColor=white" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" />
+<img alt="Docker Compose" src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" />
+</p>
+
+Backend güvenilirliğini ve DevOps yaşam döngüsünü uygulayarak öğrenmek için geliştirdiğim stok rezervasyon projesi.
+
+**Odak noktaları:** transaction yönetimi, eş zamanlı isteklerde stok tutarlılığı, tekrarlanabilir geliştirme ortamları ve mimari kararların belgelenmesi.
+
+> 🚧 Aktif olarak geliştiriliyor. Tamamlanan çalışmalar ve sonraki hedefler aşağıda ayrı yer alıyor.
+
+**Şu ana kadar uyguladıklarım:**
+
+- Envanter alan modelleri ve katmanlı uygulama yapısı
+- İstek/yanıt DTO'ları ve doğrulama içeren stok rezervasyon API'si
+- Transaction kapsamında stok güncellemeleri ve kötümser veritabanı kilitleme
+- Merkezi API hata yönetimi
+- Başarılı istekler ve hata senaryoları için controller testleri
+- Flyway ile PostgreSQL şema geçişleri
+- Sağlık kontrolleri ve kalıcı veri depolama içeren Docker Compose ortamı
+- Ortam değişkenlerine dayalı uygulama yapılandırması
+- Mimari Karar Kayıtları (ADR) ve belgelenmiş iş kuralları
+
+
+
+**Sıradaki hedefler:**
+
+- PostgreSQL üzerinde eş zamanlı istekleri ve stok tutarlılığını doğrulamak
+- Spring Boot uygulamasını konteynerleştirmek
+- Order ve Payment Simulator servislerini eklemek
+- Uçtan uca rezervasyon akışını oluşturmak ve doğrulamak
+- Test, imaj oluşturma ve dağıtım süreçlerini otomatikleştirmek
+
+
+
+---
+
+### 🧭 DevOps Öğrenme Yol Haritam
+
+DevOps konularını ReserveFlow üzerinde adım adım uygulamayı hedefliyorum.
+
+- Linux ve ağ temelleri
+- Jenkins ve CI/CD süreçleri
+- Terraform ve kod olarak altyapı
+- Ansible ve yapılandırma yönetimi
+- Kubernetes ile dağıtım
+- Prometheus ve Grafana ile izleme
+
+<p>
+<img alt="Öğrenme planındaki teknolojiler: Linux, Jenkins, Terraform, Ansible, Kubernetes, Prometheus ve Grafana" src="https://skillicons.dev/icons?i=linux,jenkins,terraform,ansible,kubernetes,prometheus,grafana&amp;perline=7" />
+</p>
+
+*Bu ikonlar öğrenme planımı gösteriyor; projede tamamlanmış uygulamalar oldukları anlamına gelmiyor.*
+
+RabbitMQ ve Redis de öğrenme konularım arasında; henüz uyguladığım teknoloji yığınının parçası değiller.
+
+
+---
+
+### 🎯 Mühendislik Hedeflerim
+
+- Mimari kararların arkasındaki gerekçeyi açıklamak
+- Anlamlı testlerle desteklenen, bakımı kolay kod yazmak
+- Başarılı akışın yanında hata senaryolarını da anlamak
+- Yeniden oluşturulabilir ortamlar ve tekrarlanabilir teslim süreçleri kurmak
 - Teknik iddiaları kod, dokümantasyon ve test sonuçlarıyla desteklemek
 
-</details>
+---
 
-<p align="center"><samp>Üreterek öğreniyorum. Anlayarak gelişiyorum.</samp></p>
+### 📊 GitHub
+
+<p align="center">
+<a href="https://github.com/aydog4nn?tab=followers"><img alt="GitHub takipçileri" src="https://img.shields.io/github/followers/aydog4nn?style=for-the-badge&amp;label=Takip%C3%A7i&amp;logo=github&amp;color=238636" /></a>
+<a href="https://github.com/aydog4nn?tab=repositories"><img alt="Herkese açık repoların toplam yıldızları" src="https://img.shields.io/github/stars/aydog4nn?style=for-the-badge&amp;label=Y%C4%B1ld%C4%B1z&amp;logo=github&amp;color=e3b341" /></a>
+</p>
+
+---
+
+<p align="center">
+  <em>Üreterek öğreniyorum. Anlayarak gelişiyorum.</em>
+</p>
